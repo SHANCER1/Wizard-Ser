@@ -69,7 +69,7 @@ Click WA logo to Join Support Group 👇
   <div align="center">
 ### 📑Amozon Support Groups
 
-[![Find On Whatsapp ](https://img.shields.io/badge/🅼『♥️MUSIC BOT♥️』亗 ❶❯-red.svg)](https://chat.whatsapp.com/IdiOlEAsYiNFZ8Y4lXMYqe)
+[![Find On Whatsapp ](https://img.shields.io/badge/MUSIC-BOT1-red.svg)](https://chat.whatsapp.com/IdiOlEAsYiNFZ8Y4lXMYqe)
 [![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support01-blue.svg)](https://chat.whatsapp.com/DHzjhDeAvh826Qm7AzbTbd)
 [![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support02-blue.svg)](https://chat.whatsapp.com/DtUxi2kNRFgDwKySvSlIyo)
 [![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support03-blue.svg)](https://chat.whatsapp.com/E1Om4pyjfATJp44lDxpUEt)
