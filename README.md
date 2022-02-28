@@ -60,7 +60,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 `TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START`
 
 <p align="center">
-  <a href="https://github.com/Ajmal-Achu/Wizrad-Ser"><img src="https://i.imgur.com/aSw2GKZ.jpeg" />
+  <a href="https://github.com/SHANCER1"><img src="https://telegra.ph/file/44803c372a66943890dfb.jpg" />
 </p>
 
 ## 📢 Guide
@@ -77,26 +77,6 @@ Click WA logo to Join Support Group 👇
   [![SudoAnirudh](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
 ----|
    `Base, Bug Fixes, Modules`
-
-  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
-----|
-   `Re-Developer, Bug Fixes, Modules, Commits`
-
-   [![Achu](https://i.imgur.com/sKzm7EK.jpeg)](https://github.com/Ajmal-Achu)[`Achu`](https://github.com/Ajmal-Achu)
-----|
-   `Re-Developer, Bug Fixes, Modules, Commits`
-
-   [![DEVILSER](https://i.imgur.com/CqEfYef.jpeg)](https://github.com/DEVILSER)[`DEVILSER`](https://github.com/DEVILSER)
-----|
-   `Bug Fixes, Modules, Commits`
-
-[![JOKER_SER](https://telegra.ph/file/360ff7e7ca78006e5f8ad.jpg)](https://github.com/JOKER_SER)[`JOKER_SER`](https://github.com/JOKER_SER)
-----|
-   `Bug Fixes, Modules, Commits`
-
-[![SafwanGanz](https://telegra.ph/file/600e12ac7fbd5e766716c.jpg)](https://github.com/SafwanGanz)[`SafwanGanz`](https://github.com/SafwanGanz)
-----|
-   `Bug Fixes, Modules`
 
 
                                   
