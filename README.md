@@ -74,7 +74,7 @@ Click WA logo to Join Support Group 👇
 ## Developers
   <div align="center">
   
-  [![SudoAnirudh](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
+  [![Mr.SHANZ](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
 ----|
    `Base, Bug Fixes, Modules`
 
