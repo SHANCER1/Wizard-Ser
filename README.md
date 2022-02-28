@@ -72,7 +72,7 @@ Click WA logo to Join Support Group 👇
 ## Developers
   <div align="center">
   
-  [![Mr.SHANZ](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/SHANCER1)[`Mr.SHANZ`](https://github.com/SHANCER1)
+  [![Mr.SHANZ](https://telegra.ph/file/44803c372a66943890dfb.jpg)](https://github.com/SHANCER1)[`Mr.SHANZ`](https://github.com/SHANCER1)
 ----|
    `Base, Bug Fixes, Modules`
 
