@@ -70,11 +70,11 @@ Click WA logo to Join Support Group 👇
 ### 📑Amozon Support Groups
 
 [![Find On Whatsapp ](https://img.shields.io/badge/MUSIC-BOT1-red.svg)](https://chat.whatsapp.com/IdiOlEAsYiNFZ8Y4lXMYqe)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support01-blue.svg)](https://chat.whatsapp.com/DHzjhDeAvh826Qm7AzbTbd)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support02-blue.svg)](https://chat.whatsapp.com/DtUxi2kNRFgDwKySvSlIyo)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support03-blue.svg)](https://chat.whatsapp.com/E1Om4pyjfATJp44lDxpUEt)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazome-News01-purple.svg)](https://chat.whatsapp.com/JElbpfLJrnvI8M7Dq9xK99)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News02-purple.svg)](https://chat.whatsapp.com/Il3gR86VHqnJQNV6N8d1yr)
+[![Find On Whatsapp ](https://img.shields.io/badge/MUSIC-BOT2-blue.svg)](https://chat.whatsapp.com/DHzjhDeAvh826Qm7AzbTbd)
+[![Find On Whatsapp ](https://img.shields.io/badge/MUSIC-BOT3-blue.svg)](https://chat.whatsapp.com/DtUxi2kNRFgDwKySvSlIyo)
+[![Find On Whatsapp ](https://img.shields.io/badge/MUSIC-BOT4-blue.svg)](https://chat.whatsapp.com/E1Om4pyjfATJp44lDxpUEt)
+[![Find On Whatsapp ](https://img.shields.io/badge/BOT-Lovers-purple.svg)](https://chat.whatsapp.com/JElbpfLJrnvI8M7Dq9xK99)
+[![Find On Whatsapp ](https://img.shields.io/badge/Whatsapp-Bot-purple.svg)](https://chat.whatsapp.com/Il3gR86VHqnJQNV6N8d1yr)
 
 ## Developers
   <div align="center">
