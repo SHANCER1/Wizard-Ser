@@ -59,8 +59,6 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 
 `TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START`
 
-<p align="center">
-  <a href="https://github.com/SHANCER1"><img src="https://telegra.ph/file/44803c372a66943890dfb.jpg" />
 </p>
 
 ## 📢 Guide
