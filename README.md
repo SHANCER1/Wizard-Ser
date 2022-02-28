@@ -4,7 +4,7 @@
   <img border-radius: 15px src="https://telegra.ph/file/73ae8f3b4438bab4071c3.jpg" width="200" height="200"/>
 
 <p align="center">
-  <a href="https://instagram.com/ajmal_ibn_shanavas"><img src="https://img.shields.io/badge/Facebook-E4405F?style=for-the-badge&logo=facebook&logoColor=blue"/> 
+  <a href="https://www.facebook.com/mr.shanz3"><img src="https://img.shields.io/badge/Facebook-E4405F?style=for-the-badge&logo=facebook&logoColor=blue"/> 
   <a href="https://wa.me/94725292890"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
@@ -21,12 +21,12 @@
 ## ```HOW TO DEPLOY```
 `WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
 
-[`Click Here For Tutorial`](https://youtu.be/5shzvYdTasw)
+[`Click Here For Tutorial`](https://youtube.com/channel/UCac60aS6ODS-MFB5s20H9-A)
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/5shzvYdTasw"><img src="https://i.imgur.com/XkDscpl.jpeg" />
+  <a href="https://youtube.com/channel/UCac60aS6ODS-MFB5s20H9-A"><img src="https://telegra.ph/file/8a0101874470d88bdaa20.jpg" />
 </p>
 
 -------
@@ -40,8 +40,6 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app) 
 
-Test
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHANCER1/Wizard-Ser) 
 ----------
 
 
