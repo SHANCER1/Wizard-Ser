@@ -1,4 +1,4 @@
-# Wizard-Ser
+# SHANZ-BOT
 
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/73ae8f3b4438bab4071c3.jpg" width="200" height="200"/>
