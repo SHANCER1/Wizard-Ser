@@ -75,7 +75,7 @@ Click WA logo to Join Support Group 👇
 [![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support03-blue.svg)](https://chat.whatsapp.com/DSX2aegJpVRG3cWIUlBa48)
 [![Find On Whatsapp ](https://img.shields.io/badge/Amazome-News01-purple.svg)](https://chat.whatsapp.com/LuLTEKm22fp8gv4ltCmKMo)
 [![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News02-purple.svg)](https://chat.whatsapp.com/LVykTrmNEU98AktU0eBNNq)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News03-purple.svg)](https://chat.whatsapp.com/JdNWV3viiGKGINYNrb5oy8
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News03-purple.svg)](https://chat.whatsapp.com/JdNWV3viiGKGINYNrb5oy8)
 
 ## Developers
   <div align="center">
