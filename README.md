@@ -65,17 +65,16 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IpM871JDwkSLLjenjV1YD4)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IdiOlEAsYiNFZ8Y4lXMYqe)
   <div align="center">
 ### 📑Amozon Support Groups
 
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazon-Plugins-red.svg)](https://chat.whatsapp.com/JJs2iwfF0VKL3IWrIyr7AT)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support01-blue.svg)](https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support02-blue.svg)](https://chat.whatsapp.com/K4QouGNrNcm1iARgDaYiLj)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support03-blue.svg)](https://chat.whatsapp.com/DSX2aegJpVRG3cWIUlBa48)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazome-News01-purple.svg)](https://chat.whatsapp.com/LuLTEKm22fp8gv4ltCmKMo)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News02-purple.svg)](https://chat.whatsapp.com/LVykTrmNEU98AktU0eBNNq)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News03-purple.svg)](https://chat.whatsapp.com/JdNWV3viiGKGINYNrb5oy8)
+[![Find On Whatsapp ](https://img.shields.io/badge/🅼『♥️MUSIC BOT♥️』亗 ❶❯-red.svg)](https://chat.whatsapp.com/IdiOlEAsYiNFZ8Y4lXMYqe)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support01-blue.svg)](https://chat.whatsapp.com/DHzjhDeAvh826Qm7AzbTbd)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support02-blue.svg)](https://chat.whatsapp.com/DtUxi2kNRFgDwKySvSlIyo)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support03-blue.svg)](https://chat.whatsapp.com/E1Om4pyjfATJp44lDxpUEt)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazome-News01-purple.svg)](https://chat.whatsapp.com/JElbpfLJrnvI8M7Dq9xK99)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News02-purple.svg)](https://chat.whatsapp.com/Il3gR86VHqnJQNV6N8d1yr)
 
 ## Developers
   <div align="center">
